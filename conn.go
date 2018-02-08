@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 	"net/textproto"
-	"./decoders"
+	"github.com/hooptie/go-usenet/decoders"
 	"strconv"
 	"strings"
 	"time"
