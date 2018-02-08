@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 	"net/textproto"
-	"nntp/decoders"
+	"./decoders"
 	"strconv"
 	"strings"
 	"time"
